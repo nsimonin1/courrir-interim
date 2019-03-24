@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: COURRIER-INTERIM  profiles:    active:    - dev
